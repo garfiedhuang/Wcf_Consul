@@ -1,0 +1,18 @@
+c:\Users\guih\documents\visual studio 2015\Projects\WCFTest\Client\bin\Debug\Client.exe.config
+c:\Users\guih\documents\visual studio 2015\Projects\WCFTest\Client\bin\Debug\Client.exe
+c:\Users\guih\documents\visual studio 2015\Projects\WCFTest\Client\bin\Debug\Client.pdb
+c:\Users\guih\documents\visual studio 2015\Projects\WCFTest\Client\bin\Debug\Consul.dll
+c:\Users\guih\documents\visual studio 2015\Projects\WCFTest\Client\bin\Debug\Contract.dll
+c:\Users\guih\documents\visual studio 2015\Projects\WCFTest\Client\bin\Debug\Contract.pdb
+c:\Users\guih\documents\visual studio 2015\Projects\WCFTest\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+c:\Users\guih\documents\visual studio 2015\Projects\WCFTest\Client\obj\Debug\Client.exe
+c:\Users\guih\documents\visual studio 2015\Projects\WCFTest\Client\obj\Debug\Client.pdb
+E:\Demo\WCFTest_Consul\Client\bin\Debug\Client.exe.config
+E:\Demo\WCFTest_Consul\Client\obj\Debug\Client.exe
+E:\Demo\WCFTest_Consul\Client\obj\Debug\Client.pdb
+E:\Demo\WCFTest_Consul\Client\bin\Debug\Client.exe
+E:\Demo\WCFTest_Consul\Client\bin\Debug\Client.pdb
+E:\Demo\WCFTest_Consul\Client\bin\Debug\Consul.dll
+E:\Demo\WCFTest_Consul\Client\bin\Debug\Contract.dll
+E:\Demo\WCFTest_Consul\Client\bin\Debug\Contract.pdb
+E:\Demo\WCFTest_Consul\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache

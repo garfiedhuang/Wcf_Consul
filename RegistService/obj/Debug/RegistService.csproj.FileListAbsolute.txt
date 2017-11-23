@@ -1,0 +1,18 @@
+c:\Users\guih\documents\visual studio 2015\Projects\WCFTest\RegistService\obj\Debug\RegistService.csprojResolveAssemblyReference.cache
+c:\Users\guih\documents\visual studio 2015\Projects\WCFTest\RegistService\bin\Debug\RegistService.exe.config
+c:\Users\guih\documents\visual studio 2015\Projects\WCFTest\RegistService\bin\Debug\RegistService.exe
+c:\Users\guih\documents\visual studio 2015\Projects\WCFTest\RegistService\bin\Debug\RegistService.pdb
+c:\Users\guih\documents\visual studio 2015\Projects\WCFTest\RegistService\bin\Debug\Consul.dll
+c:\Users\guih\documents\visual studio 2015\Projects\WCFTest\RegistService\obj\Debug\RegistService.exe
+c:\Users\guih\documents\visual studio 2015\Projects\WCFTest\RegistService\obj\Debug\RegistService.pdb
+c:\Users\guih\documents\visual studio 2015\Projects\WCFTest\RegistService\bin\Debug\Contract.dll
+c:\Users\guih\documents\visual studio 2015\Projects\WCFTest\RegistService\bin\Debug\Contract.pdb
+E:\Demo\WCFTest_Consul\RegistService\bin\Debug\RegistService.exe.config
+E:\Demo\WCFTest_Consul\RegistService\bin\Debug\RegistService.exe
+E:\Demo\WCFTest_Consul\RegistService\bin\Debug\RegistService.pdb
+E:\Demo\WCFTest_Consul\RegistService\bin\Debug\Consul.dll
+E:\Demo\WCFTest_Consul\RegistService\bin\Debug\Contract.dll
+E:\Demo\WCFTest_Consul\RegistService\bin\Debug\Contract.pdb
+E:\Demo\WCFTest_Consul\RegistService\obj\Debug\RegistService.csprojResolveAssemblyReference.cache
+E:\Demo\WCFTest_Consul\RegistService\obj\Debug\RegistService.exe
+E:\Demo\WCFTest_Consul\RegistService\obj\Debug\RegistService.pdb

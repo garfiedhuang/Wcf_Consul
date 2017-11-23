@@ -1,0 +1,9 @@
+c:\Users\guih\documents\visual studio 2015\Projects\WCFTest\Contract\bin\Debug\Contract.dll
+c:\Users\guih\documents\visual studio 2015\Projects\WCFTest\Contract\bin\Debug\Contract.pdb
+c:\Users\guih\documents\visual studio 2015\Projects\WCFTest\Contract\obj\Debug\Contract.dll
+c:\Users\guih\documents\visual studio 2015\Projects\WCFTest\Contract\obj\Debug\Contract.pdb
+E:\Demo\WCFTest_Consul\Contract\bin\Debug\Contract.dll
+E:\Demo\WCFTest_Consul\Contract\bin\Debug\Contract.pdb
+E:\Demo\WCFTest_Consul\Contract\obj\Debug\Contract.csprojResolveAssemblyReference.cache
+E:\Demo\WCFTest_Consul\Contract\obj\Debug\Contract.dll
+E:\Demo\WCFTest_Consul\Contract\obj\Debug\Contract.pdb
